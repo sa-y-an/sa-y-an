@@ -1,8 +1,8 @@
 ### Hey there !!! 👋
 
-I am Sayan Mondal, a student of NIT Durgapur. <br>
-I am fascinated by and interested in Machine Learning Algorithms 🧡.<br>
-Sometimes I make websites primarily using Django 😅.
+- I am Sayan Mondal, an undergrad pursuing Electrical Engineering from <a href="https://nitdgp.ac.in/"> NIT Durgapur </a> . <br>
+- I am fascinated by and interested in Machine Learning Algorithms 🧡.<br>
+- Sometimes I build websites primarily using Django 😅.
 <br>
 
 If you want to chat about the web, cricket, circuits, machines or anything else

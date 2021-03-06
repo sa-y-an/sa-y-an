@@ -5,9 +5,10 @@
 - Sometimes I build websites primarily using Django 😅.
 <br>
 
-If you want to chat about the web, cricket, circuits, machines or anything else
+If you want to chat about the web, machine learning, cricket, circuits or anything else
 <br>
 Feel free to ping me on <a href="https://www.linkedin.com/in/sa-y-an/"> LinkedIn </a>
+
 
 Thanks for visiting. 😊 <br>
 Have a good day/night !!!

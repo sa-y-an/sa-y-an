@@ -1,9 +1,16 @@
-### Hi there 👋
+### Hey there !!! 👋
 
-I am Sayan Mondal, a student at NIT Durgapur. I am fascinated by and interested in Machine Learning Algorithms. A passionate coder and a part time WebDeveloper.
+I am Sayan Mondal, a student of NIT Durgapur. <br>
+I am fascinated by and interested in Machine Learning Algorithms 🧡.<br>
+Sometimes I make websites primarily using Django 😅.
 <br>
-Thanks for visiting. 😊
 
+If you want to chat about the web, cricket, circuits, machines or anything else
+<br>
+Feel free to ping me on <a href="https://www.linkedin.com/in/sa-y-an/"> LinkedIn </a>
+
+Thanks for visiting. 😊
+Have a good day/night !!!
 <!--
 **sayan-mondal-tech/sayan-mondal-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

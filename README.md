@@ -12,6 +12,13 @@ Feel free to ping me on <a href="https://www.linkedin.com/in/sa-y-an/"> LinkedIn
 
 Thanks for visiting. 😊 <br>
 Have a good day/night !!!
+
+Total Visitors - <br>
+
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+
+
+
 <!--
 **sayan-mondal-tech/sayan-mondal-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

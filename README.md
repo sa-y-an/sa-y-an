@@ -5,6 +5,10 @@
 - Sometimes I build websites primarily using Django 😅.
 <br>
 
+![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sa-y-an&hide=stars&count_private=true)
+
+<br>
+
 If you want to chat about the web, machine learning, cricket, circuits or anything else
 <br>
 Feel free to ping me on <a href="https://www.linkedin.com/in/sa-y-an/"> LinkedIn </a>
@@ -17,7 +21,6 @@ Have a good day/night !!!
 <br>
 <br>
 
-![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sa-y-an&hide=contribs,prs&count_private=true)
 
 <!--
 **sayan-mondal-tech/sayan-mondal-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

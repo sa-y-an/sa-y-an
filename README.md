@@ -1,4 +1,9 @@
-### Hey there !!! 👋
+<div align="center">
+   <img src="tenor.gif" alt="alt text" width="800" height="400" />
+</div>
+
+
+### Hey there !!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 - I am Sayan Mondal, an undergrad pursuing Electrical Engineering from <a href="https://nitdgp.ac.in/"> NIT Durgapur </a> . <br>
 - I am extremely fascinated by Machine Learning Algorithms 🧡.<br>

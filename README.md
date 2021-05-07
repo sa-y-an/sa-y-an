@@ -11,7 +11,7 @@
 
 >If you want to chat about the web, deep learning, cricket, circuits or anything else <br>
 >Feel free to ping me on <a href="https://www.linkedin.com/in/sa-y-an/" target = "_blank"> LinkedIn </a> <br>
->Or you can just [e-mail](mailto:dgpmondal@gmail.com) me.<br>
+>Or you can just email me at [dgpmondal@gmail.com](mailto:dgpmondal@gmail.com) <br>
 
 Thanks for visiting. 😊 <br>
 Have a good day/night !!!

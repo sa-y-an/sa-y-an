@@ -1,7 +1,7 @@
-<div align="center">
+<!-- <div align="center">
    <img src="tenor.gif" alt="alt text" width="800" height="400" />
 </div>
-<br>
+<br> -->
 
 # Hello there !!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 

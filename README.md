@@ -6,8 +6,8 @@
 # Hello there !!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 - I am Sayan Mondal, an undergrad pursuing Electrical Engineering from <a href="https://nitdgp.ac.in/"> NIT Durgapur </a> . <br>
-- I am extremely fascinated by Machine Learning Algorithms 🧡.<br>
-- Sometimes I build websites primarily using Django 😅.
+<!-- - I am extremely fascinated by Machine Learning Algorithms 🧡.<br>
+- Sometimes I build websites primarily using Django 😅. -->
 
 >If you want to chat about the web, deep learning, cricket, circuits or anything else <br>
 >Feel free to ping me on <a href="https://www.linkedin.com/in/sa-y-an/" target = "_blank"> LinkedIn </a> <br>

@@ -10,7 +10,7 @@ I am Sayan Mondal, an undergrad pursuing Electrical Engineering from <a href="ht
 - Sometimes I build websites primarily using Django 😅. -->
 
 - I usually code in python
-- Interested in learning why and when causes Neural Network architectures fail.
+- Interested in learning why and when Neural Network architectures fail.
 
 Thanks for visiting. <br>
 

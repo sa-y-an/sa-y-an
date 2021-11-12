@@ -9,8 +9,8 @@ I am Sayan Mondal, an undergrad pursuing Electrical Engineering from <a href="ht
 <!-- - I am extremely fascinated by Machine Learning Algorithms 🧡.<br>
 - Sometimes I build websites primarily using Django 😅. -->
 
-- I usually code in python
-- Interested in understanding why and when Neural Network architectures fail.
+- I usually code in python. Huge fan of django. 
+- Interested in working on learning and building scalable products, distributed systems.
 - In my free time I love to watch the amalgamation of various programming paradigms and their evolution from all over the world at <a href="https://stackoverflow.com/users/16361344/cshelly" >stackoverflow  </a>
 
 

@@ -11,6 +11,7 @@ I am Sayan Mondal, an undergrad pursuing Electrical Engineering from <a href="ht
 
 - I usually code in python. Huge fan of django. 
 - Interested in working on learning and building scalable products, distributed systems.
+- My future goal is to build neural networks that can reason with causality, atleast temporal causality.
 - In my free time I love to watch the amalgamation of various programming paradigms and their evolution from all over the world at <a href="https://stackoverflow.com/users/16361344/cshelly" >stackoverflow  </a>
 
 

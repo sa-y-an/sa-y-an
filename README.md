@@ -1,11 +1,11 @@
-<!-- <div align="center">
-   <img src="tenor.gif" alt="alt text" width="800" height="400" />
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/55195504/158700126-f6a296bd-322f-4dbe-a334-84b9d608aa24.png" alt="Open Source" />
 </div>
-<br> -->
+<br>
 
 # Hello there !!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-I am Sayan Mondal, an undergrad pursuing Electrical Engineering from <a href="https://nitdgp.ac.in/"> NIT Durgapur </a> . <br>
+I am [Sayan Mondal](http://sayanmondal.tech/), an undergrad pursuing Electrical Engineering from <a href="https://nitdgp.ac.in/"> NIT Durgapur </a> . <br>
 <!-- - I am extremely fascinated by Machine Learning Algorithms 🧡.<br>
 - Sometimes I build websites primarily using Django 😅. -->
 
@@ -13,7 +13,9 @@ I am Sayan Mondal, an undergrad pursuing Electrical Engineering from <a href="ht
 - Interested in working on learning and building scalable products, distributed systems.
 - My future goal is to build neural networks that can reason with causality, atleast temporal causality.
 - In my free time I love to watch the amalgamation of various programming paradigms and their evolution from all over the world at <a href="https://stackoverflow.com/users/16361344/cshelly" >stackoverflow  </a>
+- Highest Rating of 1654 on [Leetcode](https://leetcode.com/sasageyo/)
 
+### Currently I am looking for internship opportunities, if my profile seems of interest please feel free to reach out at <a href="mailto:dgpmondal@gmail.com">dgpmondal@gmail.com</a> 
 
 
 <!--

@@ -7,9 +7,9 @@ I am [Sayan Mondal](http://sayanmondal.tech/), an undergrad pursuing Electrical 
 <!-- - I am extremely fascinated by Machine Learning Algorithms 🧡.<br>
 - Sometimes I build websites primarily using Django 😅. -->
 
-- I usually code in python. Huge fan of django. 
+- Backend Development is my forte, django with PostgreSQL being my trumpcard. 
 - Interested in working on learning and building scalable products, distributed systems.
-- My future goal is to build neural networks that can reason with causality, atleast temporal causality.
+- One of my future goal is to build neural networks that can reason with causality, atleast temporal causality.
 - In my free time I love to watch the amalgamation of various programming paradigms and their evolution from all over the world at <a href="https://stackoverflow.com/users/16361344/cshelly" >stackoverflow  </a>
 - Highest Rating of 1641 on [Leetcode](https://leetcode.com/sasageyo/)
 

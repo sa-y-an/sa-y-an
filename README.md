@@ -1,5 +1,5 @@
-``` 
-"The power of open source is the power of people. The people rule". 
+```py
+The power of open source is the power of people. The people rule.
 ```
 # Hello there !!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 

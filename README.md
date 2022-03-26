@@ -1,8 +1,6 @@
 ``` 
 "The power of open source is the power of people. The people rule". 
 ```
-<br>
-
 # Hello there !!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 I am [Sayan Mondal](http://sayanmondal.tech/), an undergrad pursuing Electrical Engineering from <a href="https://nitdgp.ac.in/"> NIT Durgapur </a> . <br>

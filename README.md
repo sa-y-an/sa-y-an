@@ -1,6 +1,6 @@
-<div align="center">
-   <img src="https://user-images.githubusercontent.com/55195504/158700126-f6a296bd-322f-4dbe-a334-84b9d608aa24.png" alt="Open Source" />
-</div>
+``` 
+"The power of open source is the power of people. The people rule". 
+```
 <br>
 
 # Hello there !!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">

@@ -11,7 +11,7 @@ I am [Sayan Mondal](http://sayanmondal.tech/), an undergrad pursuing Electrical 
 - Interested in working on learning and building scalable products, distributed systems.
 - One of my future goal is to build neural networks that can reason with causality, atleast temporal causality.
 - In my free time I love to watch the amalgamation of various programming paradigms and their evolution from all over the world at <a href="https://stackoverflow.com/users/16361344/cshelly" >stackoverflow  </a>
-- Highest Rating of ```1668``` on [Leetcode](https://leetcode.com/sasageyo/)
+- *Highest Rating of **1668** on [Leetcode](https://leetcode.com/sasageyo/)*
 
 ### Currently I am looking for internship opportunities, if my profile seems of interest please feel free to reach out at <a href="mailto:dgpmondal@gmail.com">dgpmondal@gmail.com</a> 
 

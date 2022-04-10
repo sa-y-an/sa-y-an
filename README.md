@@ -15,6 +15,8 @@ I am [Sayan Mondal](http://sayanmondal.tech/), an undergrad pursuing Electrical 
 
 ### Currently I am looking for internship opportunities, if my profile seems of interest please feel free to reach out at <a href="mailto:dgpmondal@gmail.com">dgpmondal@gmail.com</a> 
 
+## Snake Game Nostalgia on contribution graph !
+![snake gif](https://github.com/sa-y-an/snake/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **sayan-mondal-tech/sayan-mondal-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

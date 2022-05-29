@@ -17,7 +17,7 @@ I am [Sayan Mondal](http://sayanmondal.tech/), an undergrad pursuing Electrical 
 [![](https://cp-logo.vercel.app/leetcode/sasageyo)](https://leetcode.com/sasageyo/)
 
 
-### Currently I am looking for internship opportunities, if my profile seems of interest please feel free to reach out at <a href="mailto:dgpmondal@gmail.com">dgpmondal@gmail.com</a> 
+### Currently I am looking for internship opportunities, if my profile seems of interest please feel free to reach out at <a href="mailto:sayan.ee.nitd@gmail.com">dgpmondal@gmail.com</a> 
 
 ## Snake Game Nostalgia on contribution graph !
 ![snake gif](https://github.com/sa-y-an/snake/blob/output/github-contribution-grid-snake.svg)

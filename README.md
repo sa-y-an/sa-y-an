@@ -1,7 +1,7 @@
 ```cpp
 "The power of open source is the power of people. The people rule."
 ```
-# Hello there !!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+# Hello there !!! 
 
 I am [Sayan Mondal](http://sayanmondal.tech/), an undergrad pursuing Electrical Engineering from <a href="https://nitdgp.ac.in/"> NIT Durgapur </a> . <br>
 <!-- - I am extremely fascinated by Machine Learning Algorithms 🧡.<br>

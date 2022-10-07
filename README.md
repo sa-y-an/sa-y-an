@@ -8,9 +8,14 @@ I am [Sayan Mondal](http://sayanmondal.tech/), an undergrad pursuing Electrical 
 - Interested in working on learning and building scalable products, distributed systems.
 - One of my future goal is to build neural networks that can reason with causality, atleast temporal causality.
 - In my free time I love to watch the amalgamation of various programming paradigms and their evolution from all over the world at <a href="https://stackoverflow.com/users/16361344/cshelly" >stackoverflow  </a>
-- Currently I am rated **1800+** in [Leetcode](https://leetcode.com/sasageyo/) (Top 7% worldwide)
-- I won Smart India Hackathon 2022, where I build a theisis upload portal with realtime plagirism detection using elastic search, mongoDB.
-- I was finalist in HackX 2021, where I build a AI based stress detector. 
+
+## Achivements 
+
+- I am rated **1800+** in [Leetcode](https://leetcode.com/sasageyo/) (Top 7% worldwide)
+- I have won the **Smart India Hackathon 2022**, where I build a theisis upload portal with realtime plagirism detection powered by lucene.
+- I was finalist in **HackX 2021**, where I build a AI based [stress detector](https://github.com/sa-y-an/retro) using Django & TensorFlow. 
+
+
 
 <br/>
 

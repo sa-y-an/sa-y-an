@@ -1,6 +1,3 @@
-```c#
-Worse is better
-```
 # Hello there !!! 
 
 I am [Sayan Mondal](http://sayanmondal.tech/), an undergrad pursuing Electrical Engineering from <a href="https://nitdgp.ac.in/"> NIT Durgapur </a> . <br>
@@ -8,6 +5,7 @@ I am [Sayan Mondal](http://sayanmondal.tech/), an undergrad pursuing Electrical 
 - Interested in working on learning and building scalable products, distributed systems.
 - One of my future goal is to build neural networks that can reason with causality, atleast temporal causality.
 - In my free time I love to watch the amalgamation of various programming paradigms and their evolution from all over the world at <a href="https://stackoverflow.com/users/16361344/cshelly" >stackoverflow  </a>
+- Favourite Language : `GoLang`
 
 ## Achivements 
 
@@ -16,12 +14,9 @@ I am [Sayan Mondal](http://sayanmondal.tech/), an undergrad pursuing Electrical 
 - I was finalist in **HackX 2021**, where I build a AI based [stress detector](https://github.com/sa-y-an/retro) using Django & TensorFlow. 
 
 
-
-<br/>
-
-[![](https://cp-logo.vercel.app/leetcode/sasageyo)](https://leetcode.com/sasageyo/)
-
-### Currently I am looking for internship opportunities, if my profile seems of interest please feel free to reach out at <a href="mailto:sayan.ee.nitd@gmail.com"> my email </a> 
+```c#
+Worse is better
+```
 
 <!--
 ## Snake Game Nostalgia on contribution graph !

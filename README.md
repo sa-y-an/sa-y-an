@@ -1,5 +1,5 @@
-```cpp
-"The power of open source is the power of people. The people rule."
+```c#
+Worse is better
 ```
 # Hello there !!! 
 

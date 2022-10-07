@@ -9,8 +9,8 @@ I am [Sayan Mondal](http://sayanmondal.tech/), an undergrad pursuing Electrical 
 ## Achivements 
 
 - I am rated **1800+** in [Leetcode](https://leetcode.com/sasageyo/) (Top 7% worldwide)
-- I have won the **Smart India Hackathon 2022**, where I build a theisis upload portal with realtime plagirism detection powered by lucene.
-- I was finalist in **HackX 2021**, where I build a AI based [stress detector](https://github.com/sa-y-an/retro) using Django & TensorFlow. 
+- I have won the **[Smart India Hackathon 2022](https://sih.gov.in/)**, where I build a theisis upload portal with realtime plagirism detection powered by lucene.
+- I was finalist in **[HackX 2021](https://www.scaler.com/event/hackx/)**, where I build a AI based [stress detector](https://github.com/sa-y-an/retro) using Django & TensorFlow. 
 
 ```c#
 Worse is better

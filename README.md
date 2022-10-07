@@ -14,6 +14,11 @@ I am [Sayan Mondal](http://sayanmondal.tech/), an undergrad pursuing Electrical 
 - I was finalist in **HackX 2021**, where I build a AI based [stress detector](https://github.com/sa-y-an/retro) using Django & TensorFlow. 
 
 
+<p align="center">
+  <img src="tenor.gif">
+</p>
+
+
 ```c#
 Worse is better
 ```

@@ -2,7 +2,7 @@
 
 I am [Sayan Mondal](http://sayanmondal.tech/), an undergrad pursuing Electrical Engineering from <a href="https://nitdgp.ac.in/"> NIT Durgapur </a> . <br>
 
-- Interested in working on learning and building scalable products, distributed systems.
+- Interested in learning and building scalable, distributed systems.
 - One of my future goal is to build neural networks that can reason with causality, atleast temporal causality.
 - Favourite Language : `GoLang`
 

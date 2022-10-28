@@ -12,14 +12,14 @@ I am [Sayan Mondal](http://sayanmondal.tech/), an undergrad pursuing Electrical 
 - I have won the **[Smart India Hackathon 2022](https://sih.gov.in/)**, where I build a [thesis upload portal with realtime plagirism detection](https://github.com/SIH-2022-WoG) powered by lucene.
 - I was finalist in **[HackX 2021](https://www.scaler.com/event/hackx/)**, where I build a AI based [stress detector](https://github.com/sa-y-an/retro) using Django & TensorFlow. 
 
-```c#
-Worse is better
-```
 
 <!--
 ## Snake Game Nostalgia on contribution graph !
 ![snake gif](https://github.com/sa-y-an/snake/blob/output/github-contribution-grid-snake.svg)
 
+```c#
+Worse is better
+```
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)

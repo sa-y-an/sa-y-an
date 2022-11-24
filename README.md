@@ -1,6 +1,9 @@
 # Hello there 👋
 
-I am [Sayan Mondal](http://sayanmondal.tech/), an undergrad pursuing Electrical Engineering from <a href="https://nitdgp.ac.in/"> NIT Durgapur </a> . <br>
+<!-- I am [Sayan Mondal](http://sayanmondal.tech/),  -->
+![](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=This+is+Sayan+Mondal)
+<br/>
+An undergrad pursuing Electrical Engineering from <a href="https://nitdgp.ac.in/"> NIT Durgapur </a> . <br>
 
 - Interested in learning and building scalable, distributed systems.
 - One of my future goal is to build neural networks that can reason with causality, atleast temporal causality.

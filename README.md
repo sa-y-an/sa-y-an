@@ -19,7 +19,7 @@ Worse is better
 - I was finalist in **[HackX 2021](https://www.scaler.com/event/hackx/)**, where I build a AI based [stress detector](https://github.com/sa-y-an/retro) using Django & TensorFlow. 
 - I am rated Knight in [Leetcode](https://leetcode.com/fightforme/) (Top 5% worldwide)
 
-
+![](https://assets.leetcode.com/static_assets/others/Knight.gif)
 
 
 <!--

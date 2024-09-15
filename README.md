@@ -17,7 +17,7 @@ Worse is better
 
 - I have won the **[Smart India Hackathon 2022](https://sih.gov.in/)**, where I build a [thesis upload portal with realtime plagirism detection](https://github.com/SIH-2022-WoG) powered by lucene.
 - I was finalist in **[HackX 2021](https://www.scaler.com/event/hackx/)**, where I build a AI based [stress detector](https://github.com/sa-y-an/retro) using Django & TensorFlow. 
-- I am rated **1800+** in [Leetcode](https://leetcode.com/sasageyo/) (Top 7% worldwide)
+- I am rated Knight in [Leetcode](https://leetcode.com/fightforme/) (Top 5% worldwide)
 
 
 

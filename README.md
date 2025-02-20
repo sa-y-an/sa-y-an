@@ -1,6 +1,6 @@
 # One man can change the world, that man can be you !
 
-Quotes to live by 
+### Quotes to live by 
 
 From Harry Potter, 
 ```py
@@ -18,3 +18,12 @@ From Keshava Sawami
 You cannot give up what you want most, 
 for what feels good at the moment. 
 ```
+
+### Connect with me - 
+
+- [LinkedIn](https://linkedin.com/in/sa-y-an)
+
+
+### Read my Blogs 
+
+- [Blogs on Career, Engineering & AI](http://sayan-mondal.netlify.app/)

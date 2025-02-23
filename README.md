@@ -2,7 +2,11 @@
 
 ### Hello 👋 !
 
+<div align="center">
 <img src="https://github.com/user-attachments/assets/f91b5899-864e-4f31-999c-b08a1dca07db" height="30%" width="30%" align="center" />
+</div>
+
+<br/>
 
 - I am Sayan Mondal, currently working as a Software Engineer at Google in GCP
 - Previously I have worked at Microsoft in Azure from mid 2023 to end of 2024
